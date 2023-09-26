@@ -1,0 +1,47 @@
+/* .form{
+    background :  #050512;
+    width: 100%;
+    position: relative;
+} */
+/* .paddingDefault {
+    margin-left:  0px !important;
+    margin-right: 0px !important;
+} */
+.paddingbottom{
+    margin-bottom: 200px;
+}
+.authentication{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 76px;
+    line-height: 116px;
+    text-align: center;
+    letter-spacing: 0.1em; 
+    color: #FFFFFF;
+    margin-top: 350px;
+    margin-bottom: 200px; 
+}
+.maskcenter{
+    text-align: center;
+}
+.maskinput{
+    width: 50%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    background: none;
+    color: white;
+    border: none;
+    border-bottom: 2px solid white;
+    font-size: 30px;
+}
+.btnmask{
+    width: 15%;
+    padding: 0.5%;
+    background-color: transparent;
+    color: white;
+    border: 0.5px solid #FFFFFF;
+    font-family: 'Outfit';
+    font-style: normal;  
+    letter-spacing: 1.00em;
+}

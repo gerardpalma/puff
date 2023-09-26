@@ -1,0 +1,374 @@
+/* .form{
+    background :  #050512;
+    width: 100%;
+    position: relative;
+} */
+/* .paddingDefault {
+    margin-left:  0px !important;
+    margin-right: 0px !important;
+} */
+.paddingbottom{
+    margin-bottom: 200px;
+}
+.ourproduct{
+    margin-top: 350px;
+    margin-bottom: 440px; 
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 76px;
+    line-height: 116px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+}
+.title_klikit1{   
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 52px;
+    line-height: 116px;  
+    text-align: left;
+    letter-spacing: 0.205em;
+    text-transform: uppercase;   
+    color: #FFFFFF;
+    margin: -21px 0px;
+}
+.letter_klikit1{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 19px;
+    line-height: 24px;
+    text-align: left;
+    color: #FFFFFF;
+    margin-right: 50px;
+}
+.letter_klikit2{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 19px;
+    line-height: 24px;
+    text-align: left;
+    color: #FFFFFF;
+    opacity: 0.4;
+    margin-right: 50px;
+}
+.letter_klikit3{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 19px;
+    line-height: 24px;
+    text-align: left;
+    color: #FFFFFF;
+    opacity: 0.4;
+    margin-right: 50px;
+}
+.klikit_pod1{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18.5815px;
+    line-height: 23px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.klikit_pod2{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13.5788px;
+    line-height: 17px;
+    text-align: center;
+    color: #FFFFFF;
+    opacity: 0.4;
+}
+.marginimage{
+    margin-top: 40px;
+}
+.marginletter{
+    margin-top: 90px;
+}
+.oneline{
+    display: inherit;
+}
+
+
+
+.product {
+    background-color: #050512;   
+}
+.product:hover {
+    background-color: #050512;  
+    background-image: url('../../../public//image/klikit pod.png');
+    background-size: 100%;
+}
+.product:hover > img {
+    visibility:hidden
+}
+
+.product1 {
+    background-color: #050512;   
+}
+.product1:hover {
+    background-color: #050520;  
+    background-image: url('../../../public//image/klikit ful kit.png');
+    background-size: 100%;
+}
+.product1:hover > img {
+    visibility:hidden
+}
+
+.product2 {
+    background-color: #050512;   
+}
+.product2:hover {
+    background-color: #050520;  
+    background-image: url('../../../public//image/klikit battery_b.png');
+    background-size: 100%;
+}
+.product2:hover > img {
+    visibility:hidden
+}
+
+.product3 {
+    background-color: #050512;   
+}
+.product3:hover {
+    background-color: #050520;  
+    background-image: url('../../../public//image/klikit pod1.png');
+    background-size: 100%;
+}
+.product3:hover > img {
+    visibility:hidden
+}
+
+.product4 {
+    background-color: #050512;   
+}
+.product4:hover {
+    background-color: #050520;  
+    background-image: url('../../../public//image/klikit ful kit1.png');
+    background-size: 100%;
+}
+.product4:hover > img {
+    visibility:hidden
+}
+
+.product5 {
+    background-color: #050512;   
+}
+.product5:hover {
+    background-color: #050520;  
+    background-image: url('../../../public//image/pink 2.png');
+    background-size: 100%;
+}
+.product5:hover > img {
+    visibility:hidden
+}
+
+.product6 {
+    background-color: #050512;   
+}
+.product6:hover {
+    background-color: #050520;  
+    background-image: url('../../../public//image/pink 3.png');
+    background-size: 100%;
+}
+.product6:hover > img {
+    visibility:hidden
+}
+
+.product7 {
+    background-color: #050512;   
+}
+.product7:hover {
+    background-color: #050520;  
+    background-image: url('../../../public//image/liquid1.png');
+    background-size: 100%;
+}
+.product7:hover > img {
+    visibility:hidden
+}
+
+.product8 {
+    background-color: #050512;   
+}
+.product8:hover {
+    background-color: #050520;  
+    background-image: url('../../../public//image/liquid2.png');
+    background-size: 100%;
+}
+.product8:hover > img {
+    visibility:hidden
+}
+
+.product9 {
+    background-color: #050512;   
+}
+.product9:hover {
+    background-color: #050520;  
+    background-image: url('../../../public//image/liquid3.png');
+    background-size: 100%;
+}
+.product9:hover > img {
+    visibility:hidden
+}
+
+.product10 {
+    background-color: #050512;   
+}
+.product10:hover {
+    background-color: #050520;  
+    background-image: url('../../../public//image/liquid4.png');
+    background-size: 100%;
+}
+.product10:hover > img {
+    visibility:hidden
+}
+
+.product11 {
+    background-color: #050512;   
+}
+.product11:hover {
+    background-color: #050520;  
+    background-image: url('../../../public//image/liquid5.png');
+    background-size: 100%;
+}
+.product11:hover > img {
+    visibility:hidden
+}
+
+.product12 {
+    background-color: #050512;   
+}
+.product12:hover {
+    background-color: #050520;  
+    background-image: url('../../../public//image/liquid6.png');
+    background-size: 100%;
+}
+.product12:hover > img {
+    visibility:hidden
+}
+
+.product13 {
+    background-color: #050512;   
+}
+.product13:hover {
+    background-color: #050520;  
+    background-image: url('../../../public//image/liquid7.png');
+    background-size: 100%;
+}
+.product13:hover > img {
+    visibility:hidden
+}
+
+.product14 {
+    background-color: #050512;   
+}
+.product14:hover {
+    background-color: #050520;  
+    background-image: url('../../../public//image/R3.png');
+    background-size: 100%;
+}
+.product14:hover > img {
+    visibility:hidden
+}
+
+.product15 {
+    background-color: #050512;   
+}
+.product15:hover {
+    background-color: #050520;  
+    background-image: url('../../../public//image/R4.png');
+    background-size: 100%;
+}
+.product15:hover > img {
+    visibility:hidden
+}
+
+.product16 {
+    background-color: #050512;   
+}
+.product16:hover {
+    background-color: #050520;  
+    background-image: url('../../../public//image/R5.png');
+    background-size: 100%;
+}
+.product16:hover > img {
+    visibility:hidden
+}
+
+.product17 {
+    background-color: #050512;   
+}
+.product17:hover {
+    background-color: #050520;  
+    background-image: url('../../../public//image/R6.png');
+    background-size: 100%;
+}
+.product17:hover > img {
+    visibility:hidden
+}
+
+.product18 {
+    background-color: #050512;   
+}
+.product18:hover {
+    background-color: #050520;  
+    background-image: url('../../../public//image/R7.png');
+    background-size: 100%;
+}
+.product18:hover > img {
+    visibility:hidden
+}
+
+.product19 {
+    background-color: #050512;   
+}
+.product19:hover {
+    background-color: #050520;  
+    background-image: url('../../../public//image/R8.png');
+    background-size: 100%;
+}
+.product19:hover > img {
+    visibility:hidden
+}
+
+.product20 {
+    background-color: #050512;   
+}
+.product20:hover {
+    background-color: #050520;  
+    background-image: url('../../../public//image/R9.png');
+    background-size: 100%;
+}
+.product20:hover > img {
+    visibility:hidden
+}
+
+.product21{
+    background-color: #050512;   
+}
+.product21:hover {
+    background-color: #050520;  
+    background-image: url('../../../public//image/R10.png');
+    background-size: 100%;
+}
+.product21:hover > img {
+    visibility:hidden
+}
+
+.product22 {
+    background-color: #050512;   
+}
+.product22:hover {
+    background-color: #050520;  
+    background-image: url('../../../public//image/liquidblue.png');
+    background-size: 100%;
+}
+.product22:hover > img {
+    visibility:hidden
+}

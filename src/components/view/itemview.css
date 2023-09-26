@@ -1,0 +1,139 @@
+/* .form{
+    background :  #050512;
+    width: 0%;
+    position: relative;
+} */
+/* .paddingDefault {
+    margin-left:  0px !important;
+    margin-right: 0px !important;
+} */
+.itemcenter{
+    text-align: center;
+}
+.item_imgbottom{
+   margin-bottom: 10%;
+}
+.item_titlewidth{
+    width: 80%;
+    margin: auto;
+}
+.item_title{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 54px;
+    line-height: 68px;
+    color: #FFFFFF;
+}
+.item_description{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    text-align: left;
+}
+.item_position{
+    float: right;
+    margin-right: 2%;
+}
+.btn_enquire{
+    width: 100%;
+    background-color: transparent;
+    color: white;
+    border: 0.5px solid #FFFFFF;
+    font-family: 'Outfit';
+    font-style: normal;  
+    letter-spacing: 0.2em;
+}
+.btn_enquireposition{
+    margin-left: 3%;
+    margin-right: 7%;
+}
+.item_d{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 39px;
+    color: #FFFFFF;
+}
+.item_paragraph{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 39px;
+    color: #FFFFFF;   
+    opacity: 0.3;  
+}
+.item_aboutus1{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 100px;
+    line-height: 116px;
+    text-align: center;
+    color: #FFFFFF;
+    opacity: 0.05;
+    letter-spacing: 0.185em;
+}
+.item_aboutus2{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 100px;
+    line-height: 116px;
+    text-align: center;
+    color: #FFFFFF;
+    opacity: 0.05;
+    letter-spacing: 0.185em;
+}
+.item_aboutus3{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 100px;
+    line-height: 116px;
+    text-align: center;
+    color: #FFFFFF;
+    opacity: 0.05;
+    letter-spacing: 0.185em;
+}
+.item_introduce{
+    margin-top: 150px;
+    margin-bottom: 50px;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 33px;
+    line-height: 39px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.itemdescripetop{
+    margin-top: 5%;
+}
+.itemdescripebottom{
+    margin-bottom: 10%;
+}
+.backfont{
+    width: 80%;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 14px;
+    text-align: left;
+    letter-spacing: 0.295em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: auto;
+}

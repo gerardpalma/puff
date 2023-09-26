@@ -1,0 +1,89 @@
+/* .form{
+    background :  #050512;
+    width: 100%;
+    position: relative;
+} */
+/* .paddingDefault {
+    margin-left:  0px !important;
+    margin-right: 0px !important;
+} */
+.paddingbottom{
+    margin-bottom: 200px;
+}
+.paddingupdown{
+    margin-top: 15%;
+    margin-bottom: 5%;
+}
+.alink{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    text-align: center;
+    letter-spacing: 0.3em;
+    color: #FFFFFF;
+}
+.footertitle{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 20px;
+    text-align: center;
+    color: #FFFFFF;
+    opacity: 0.4;
+    letter-spacing: 0.205em;
+}
+.footeraddress{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 15px;
+    text-align: center;
+    color: #FFFFFF;
+    opacity: 0.3;
+    letter-spacing: 0.270em;
+}
+.address{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 13px;
+    text-align: left;
+    letter-spacing: 0.3em;
+    color: #FFFFFF;
+    opacity: 0.4;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+.address1{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 16px;
+    text-align: left;
+    color: #FFFFFF;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+.rowwidth{
+    width:700%;
+}
+.height{
+    margin-top: 32%;
+}
+.space{
+    margin-bottom: 5%;
+}
+.footermarktop{
+    text-align: center;
+    margin-top: 25%;
+}

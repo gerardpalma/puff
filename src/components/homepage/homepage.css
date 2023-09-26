@@ -1,0 +1,95 @@
+/* .form{
+    background :  #050512;
+    width: 100%;
+    position: relative;
+} */
+/* .paddingDefault {
+    margin-left:  0px !important;
+    margin-right: 0px !important;
+} */
+.padding_left{
+    margin-left: 30%;
+}
+.padding_right{
+    margin-right: 30%;
+}
+.padding_bottom{
+    margin-bottom: 10%;
+}
+
+
+.together{
+    margin-top: 25%;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 124.158px;
+    line-height: 116px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.btnhomepage{
+    width: 232px;
+    height: 56px;
+    margin-top: 5%;
+    margin-bottom: 47%;
+    background-color: transparent;
+    color: white;
+    border: 0.5px solid #FFFFFF;
+}
+.easyposition{
+    margin-top: 25%;
+    margin-bottom: 40%;
+}
+.easyfont{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    text-align: right;
+    letter-spacing: 0.205em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.satisfyingfont{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    text-align: left;
+    letter-spacing: 0.205em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.easyfont1{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: right;
+    color: #FFFFFF;
+    opacity: 0.3;
+}
+.satisfyingfont1{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: left;
+    color: #FFFFFF;
+    opacity: 0.3;
+}
+.smoke {
+    background-image: url('https://s3-alpha-sig.figma.com/img/51cd/3daf/a8f701c2a44e18a48e1040229e792528?Expires=1683504000&Signature=gsHs2F4FvlSKAY8fwXG3314QyU1QojCAxuY4088pZryV5Q7S4TC8sIMD8~noMY04a38kxSxKD8Z0M9FZrM3GhG8Ye8klqrCQRszci22Gs8wC6naBV9-5i~ebT1UIVMRVnDxndeawU8uIVQIYcqczpdaZOCiiAm7JTe3RGyab4jYDv2xS1Coa2CijZU7rJL8XY4CJhePMwn7tSv-ru220lGMWRVcm58Y7yydLneeH2ng2qH~dIu~3JAdOTQpFyG6c~vif0BempbEfm6iyQ133sf~-Go01bG-WsJQLI1YiQ39dTIrcsGnCkbQyb1uFy46AW~cWv5Uoqb-IOB2wIlIxgQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4');
+    background-size: cover;
+    width: 50%;
+    height: 50%;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: bottom;
+}

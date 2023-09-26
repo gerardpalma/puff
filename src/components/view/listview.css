@@ -1,0 +1,51 @@
+/* .form{
+    background :  #050512;
+    width: 100%;
+    position: relative;
+} */
+/* .paddingDefault {
+    margin-left:  0px !important;
+    margin-right: 0px !important;
+} */
+.listview_bottom{
+    margin-bottom: 10%;
+}
+.listview_itembottom{
+    margin-bottom: 25%;
+}
+.viewcenter{
+    text-align: center;
+}
+.listview_title{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 100px;
+    line-height: 116px;
+    color: #FFFFFF;
+}
+.listview_title1{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 116px;
+    letter-spacing: 0.205em;
+    color: #FFFFFF;
+}
+.listview_description{
+    width: 37%;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 19.58px;
+    line-height: 25px;
+    color: #FFFFFF;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: auto;
+}
+
+
+

@@ -1,0 +1,147 @@
+/* .form{
+    background :  #050512;
+    width: 100%;
+    position: relative;
+} */
+/* .paddingDefault {
+    margin-left:  0px !important;
+    margin-right: 0px !important;
+} */
+.paddingbottom{
+    margin-bottom: 200px;
+}
+.aboutus{
+    margin-top: 300px;
+    margin-bottom: 200px; 
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 76px;
+    line-height: 116px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+}
+.introduce{
+    margin-top: 150px;
+    margin-bottom: 300px;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 33px;
+    line-height: 39px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.aboutus1{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 100px;
+    line-height: 116px;
+    text-align: center;
+    color: #FFFFFF;
+    opacity: 0.05;
+    letter-spacing: 0.185em;
+}
+.aboutus2{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 100px;
+    line-height: 116px;
+    text-align: center;
+    color: #FFFFFF;
+    opacity: 0.05;
+    letter-spacing: 0.185em;
+}
+.aboutus3{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 100px;
+    line-height: 116px;
+    text-align: center;
+    color: #FFFFFF;
+    opacity: 0.05;
+    letter-spacing: 0.185em;
+}
+.position1{
+    margin-left: 15%;
+}
+.position2{
+    margin-left: 0%;
+}
+.position3{
+    margin-left: 30%;
+}
+.name{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 116px;
+    text-align: center;
+    letter-spacing: 0.205em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.title{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 18px;
+    line-height: 23px;
+    color: #FFFFFF;
+    opacity: 0.33;
+    text-align: center;
+}
+.center{
+    margin-top: 20%;
+}
+.oneline{
+    display: inherit;
+}
+
+.manchange1 {
+    background-color: #050520;   
+}
+.manchange1:hover {
+    background-color: #242441;   
+}
+.manchange1:hover > div {
+    background-image: url('../../../public//image/Man1.png');
+    background-repeat: no-repeat;
+}
+.manchange1:hover > div > img {
+    visibility:hidden
+}
+
+.manchange2 {
+    background-color: #050520;   
+}
+.manchange2:hover {
+    background-color: #242441;   
+}
+.manchange2:hover > div {
+    background-image: url('../../../public//image/Man2.png');
+    background-repeat: no-repeat;
+}
+.manchange2:hover > div > img {
+    visibility:hidden
+}
+
+.manchange3 {
+    background-color: #050520;   
+}
+.manchange3:hover {
+    background-color: #242441;   
+}
+.manchange3:hover > div {
+    background-image: url('../../../public//image/Man3.png');
+    background-repeat: no-repeat;
+}
+.manchange3:hover > div > img {
+    visibility:hidden
+}
+

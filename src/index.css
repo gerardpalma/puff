@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+@font-face {
+  font-family: 'Outfit';
+  src: url('../public/font/Outfit/Outfit-Regular.otf');
+  src: url('../public/font/Outfit/Outfit-Black.otf');
+  src: url('../public/font/Outfit/Outfit-Bold.otf');
+  src: url('../public/font/Outfit/Outfit-ExtraBold.otf');
+  src: url('../public/font/Outfit/Outfit-ExtraLight.otf');
+  src: url('../public/font/Outfit/Outfit-Light.otf');
+  src: url('../public/font/Outfit/Outfit-Medium.otf');
+  src: url('../public/font/Outfit/Outfit-SemiBold.otf');
+  /* src: url('../public/font/Outfit/Outfit-Thin'); */
+}
